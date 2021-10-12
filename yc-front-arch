@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T14:37:14.843Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="WqgDKC5LMjCgkrvd4Kvf" version="15.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-12T14:40:58.035Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="41UPr4DQAERg2U8e5JqV" version="15.5.2" type="github" pages="2">
   <diagram id="uE-a1JwM2O_jP1chczfx" name="Page-1">
     <mxGraphModel dx="1406" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,6 +15,15 @@
       <root>
         <mxCell id="z6LUIjeAEuKLYTTQjlXX-0" />
         <mxCell id="z6LUIjeAEuKLYTTQjlXX-1" parent="z6LUIjeAEuKLYTTQjlXX-0" />
+        <mxCell id="z6LUIjeAEuKLYTTQjlXX-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="z6LUIjeAEuKLYTTQjlXX-1">
+          <mxGeometry y="600" width="850" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="z6LUIjeAEuKLYTTQjlXX-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z6LUIjeAEuKLYTTQjlXX-1">
+          <mxGeometry y="320" width="850" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="z6LUIjeAEuKLYTTQjlXX-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z6LUIjeAEuKLYTTQjlXX-1">
+          <mxGeometry y="40" width="850" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="z6LUIjeAEuKLYTTQjlXX-5" value="Component.controller.ts" style="swimlane;fontSize=15;startSize=40;" vertex="1" parent="z6LUIjeAEuKLYTTQjlXX-1">
           <mxGeometry x="40" y="80" width="280" height="200" as="geometry">
             <mxRectangle x="80" y="80" width="160" height="23" as="alternateBounds" />
